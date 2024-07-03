@@ -1,6 +1,5 @@
 # Learn PyTorch for Deep Learning
-<br>
-<br>
+<br/> 
 ## Current Lesson: Reshaping, stacking, squeezing and unsqueezing
 <br>
 <br>
